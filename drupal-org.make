@@ -169,7 +169,8 @@ projects[google_analytics][subdir] = "contrib"
 projects[helper][version] = "1.1"
 projects[helper][subdir] = "contrib"
 
-projects[inline_entity_form][version] = "4389be0d2781a06dacb6c492f4f71aa302afc4b6"
+projects[inline_entity_form][version] = "1.x-dev"
+projects[inline_entity_form][revision] = "4389be0d2781a06dacb6c492f4f71aa302afc4b6"
 projects[inline_entity_form][subdir] = "contrib"
 ; Add a 'Clone' button to the widget
 ; @see https://drupal.org/node/1590146
